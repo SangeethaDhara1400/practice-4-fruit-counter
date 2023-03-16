@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 100px;
+}
+
+.white-container {
+  background-color: #ffffff;
+  height: 80vh;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-size {
+  height: 300px;
+}
+.mango {
+  color: #ffffff;
+  background-color: #007bff;
+  width: 200px;
+}
+.mangoes-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.fruits-section {
+  display: flex;
+  flex-direction: row;
+}
